@@ -29,4 +29,4 @@ A fast, minimal, and responsive **password generator** built with **React + Vite
 
 --Random password logic inspired by various security best practices
 
---Built with  React and Vite
+--Built with  React , Vite and Custom css
